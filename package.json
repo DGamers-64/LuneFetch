@@ -1,0 +1,22 @@
+{
+  "name": "lunefetch",
+  "version": "1.0.0",
+  "description": "Pequeña función para hacer los fetchs más sencillos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGamers-64/LuneFetch.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "xLune64",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/DGamers-64/LuneFetch/issues"
+  },
+  "homepage": "https://github.com/DGamers-64/LuneFetch#readme"
+}
