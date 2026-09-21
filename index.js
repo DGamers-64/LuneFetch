@@ -7,7 +7,7 @@ async function LuneFetch(url, type = "json", options = {}) {
     } else if (type == "text") {
         data = await res.text()
     } else if (type == "arrayBuffer") {
-        data = await res.arrayBuffer
+        data = await res.arrayBuffer()
     } else if (type == "blob") {
         data = await res.blob()
     } else if (type == "bytes") {
